@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">RunningApp</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="_0">0</string>
+    <string name="textview">TextView</string>
+    <string name="details">Details</string>
+    <string name="steps">Steps</string>
+    <string name="time">Time</string>
+    <string name="stepssdisplay">stepssDisplay</string>
+    <string name="timeview">timeView</string>
+    <string name="stepsdisplay">stepsDisplay</string>
+    <string name="reset">Reset</string>
+    <string name="_0_">0</string>
+    <string name="_0__">0</string>
+    <string name="stepsDisplay" />
+</resources>
