@@ -1,6 +1,6 @@
 package com.example.runningapp;
 
-import androidx.appcompat.app.AppCompatActivity;
+import  androidx.appcompat.app.AppCompatActivity;
 
 
 import android.annotation.SuppressLint;
@@ -104,11 +104,11 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 detailsButton.setOnClickListener(new View.OnClickListener() {
-    @Override
+    @Override//n
     public void onClick(View v) {
 if (!textView.getText().toString().matches("0") || !time.getText().toString().matches("0") ) {
     //intent for dATE
-    Intent i = new Intent(MainActivity.this, ShowRun.class);
+    Intent i = new Intent(MainActivity.this, DetailsActivity.class);
     i.putExtra("key", String.valueOf(stepCount));
     MainActivity.this.startActivity(i);
     //meters ran

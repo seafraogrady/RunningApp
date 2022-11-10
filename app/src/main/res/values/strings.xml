@@ -14,4 +14,11 @@
     <string name="_0_">0</string>
     <string name="_0__">0</string>
     <string name="stepsDisplay" />
+    <string name="TV1">TextView</string>
+    <string name="TV2">TextView</string>
+    <string name="TV3">TextView</string>
+    <string name="todays_run">Todays Run :</string>
+    <string name="calories">Calories</string>
+    <string name="meters">Meters:</string>
+    <string name="seconds">Seconds</string>
 </resources>
